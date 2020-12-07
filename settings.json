@@ -22,5 +22,7 @@
     "workbench.startupEditor": "newUntitledFile",
     "explorer.confirmDelete": false,
     "editor.cursorBlinking": "smooth",
-    "files.autoSave": "onWindowChange"
+    "files.autoSave": "onWindowChange",
+    "workbench.colorCustomizations": {},
+    "materialTheme.accent": "Remove accents"
 }
