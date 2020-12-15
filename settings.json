@@ -24,5 +24,7 @@
     "editor.cursorBlinking": "smooth",
     "files.autoSave": "onWindowChange",
     "workbench.colorCustomizations": {},
-    "materialTheme.accent": "Remove accents"
+    "materialTheme.accent": "Remove accents",
+    "emmet.triggerExpansionOnTab": true,
+    "blade.format.enable": true
 }
