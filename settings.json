@@ -26,7 +26,6 @@
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "explorer.confirmDelete": false,
     // End of General settings
-
     // Intelephense settings
     "intelephense.diagnostics.undefinedTypes": false,
     "intelephense.diagnostics.undefinedFunctions": false,
@@ -36,7 +35,6 @@
     "intelephense.diagnostics.undefinedProperties": false,
     "intelephense.diagnostics.undefinedVariables": true,
     // End of Intelephense settings
-
     // Golang settings
     "go.useLanguageServer": true,
     "[go]": {
@@ -61,19 +59,4 @@
         "staticcheck": false,
     },
     // End of Golang settings
-
-    // Advanced new file settings
-    "advancedNewFile.exclude": {
-        "node_modules": true,
-        "node_modules_electron": true,
-        "dev": true,
-        "dist": true
-    },
-    "advancedNewFile.showInformationMessages": true,
-    "advancedNewFile.convenienceOptions": [
-        "last",
-        "current",
-        "root"
-    ]
-    // End of advanced new file settings
 }
