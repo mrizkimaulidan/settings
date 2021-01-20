@@ -1,15 +1,14 @@
 {
     // General settings
-    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorTheme": "Syntax Dark",
     "workbench.iconTheme": "vscode-great-icons",
     "editor.fontFamily": "Hack, Consolas, 'Courier New', monospace",
-    "files.autoSave": "onWindowChange",
-    "editor.fontSize": 13.5,
+    "editor.fontSize": 14,
     "editor.minimap.enabled": false,
     "explorer.openEditors.visible": 0,
     "workbench.sideBar.location": "right",
     "workbench.activityBar.visible": false,
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": true,
     "editor.lineHeight": 25,
     "editor.letterSpacing": 1,
     "breadcrumbs.enabled": false,
@@ -26,6 +25,7 @@
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "explorer.confirmDelete": false,
     // End of General settings
+
     // Intelephense settings
     "intelephense.diagnostics.undefinedTypes": false,
     "intelephense.diagnostics.undefinedFunctions": false,
@@ -35,6 +35,7 @@
     "intelephense.diagnostics.undefinedProperties": false,
     "intelephense.diagnostics.undefinedVariables": true,
     // End of Intelephense settings
+    
     // Golang settings
     "go.useLanguageServer": true,
     "[go]": {
