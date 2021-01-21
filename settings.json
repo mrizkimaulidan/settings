@@ -1,9 +1,9 @@
 {
     // General settings
-    "workbench.colorTheme": "Syntax Dark",
+    "workbench.colorTheme": "One Monokai Darker",
     "workbench.iconTheme": "vscode-great-icons",
     "editor.fontFamily": "Hack, Consolas, 'Courier New', monospace",
-    "editor.fontSize": 14,
+    "editor.fontSize": 13.5,
     "editor.minimap.enabled": false,
     "explorer.openEditors.visible": 0,
     "workbench.sideBar.location": "right",
