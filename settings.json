@@ -1,34 +1,17 @@
 {
     "workbench.colorTheme": "One Monokai Darker",
     "workbench.iconTheme": "vscode-great-icons",
-    "editor.minimap.enabled": false,
     "editor.fontFamily": "Hack, Consolas, 'Courier New', monospace",
-    "editor.letterSpacing": 1,
-    "editor.lineHeight": 25,
-    "explorer.openEditors.visible": 0,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": false,
+    "workbench.sideBar.location": "right",
     "breadcrumbs.enabled": false,
+    "editor.fontSize": 14.3,
+    "editor.lineHeight": 25,
     "editor.renderIndentGuides": false,
     "editor.renderLineHighlight": "none",
-    "editor.occurrencesHighlight": false,
-    "workbench.sideBar.location": "right",
-    "workbench.activityBar.visible": false,
-    "editor.cursorBlinking": "smooth",
-    "intelephense.diagnostics.undefinedTypes": false,
-    "intelephense.diagnostics.undefinedFunctions": false,
-    "intelephense.diagnostics.undefinedConstants": false,
-    "intelephense.diagnostics.undefinedClassConstants": false,
-    "intelephense.diagnostics.undefinedMethods": false,
-    "intelephense.diagnostics.undefinedProperties": false,
-    "intelephense.diagnostics.undefinedVariables": true,
-    "editor.formatOnSave": true,
-    "editor.formatOnPaste": true,
-    "emmet.triggerExpansionOnTab": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
     "blade.format.enable": true,
-    "[blade]": {
-        "editor.autoClosingBrackets": "always"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "explorer.confirmDelete": false
 }
