@@ -7,11 +7,9 @@
     "workbench.activityBar.visible": false,
     "workbench.sideBar.location": "right",
     "breadcrumbs.enabled": false,
-    "editor.fontSize": 14.3,
     "editor.lineHeight": 25,
     "editor.renderIndentGuides": false,
     "editor.renderLineHighlight": "none",
     "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "blade.format.enable": true,
     "explorer.confirmDelete": false
 }
